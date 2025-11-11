@@ -104,7 +104,7 @@
       .then(() => {
         Swal.fire({
           title: "Message Sent!",
-          text: "Thank you for contacting me. I’ll get Response to you soon.",
+          text: "Thank you for contacting me. I’ll Response to you soon.",
           icon: "Success",
           confirmButtonColor: "#00B87B"
         });
