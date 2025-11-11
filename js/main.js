@@ -114,7 +114,7 @@
       .catch(() => {
         Swal.fire({
           title: "Oops!",
-          text: "Something went wrong. Please try again later.",
+          text: "Something went wrong. Please Try Again Later.",
           icon: "Error",
           confirmButtonColor: "#d33"
         });
